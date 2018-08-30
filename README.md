@@ -21,3 +21,7 @@ The tree search algorithm attempts to mimic the intuition of a portfolio manager
 Dynamic Time Warping (DTW):
 
 An algorithm to match predicted model trajectory and yearly economic scenario trajectory
+
+Random Forest & Gradient Boosting Algorithm for Load Prediction: (RF_GBM_for_load_prediction)
+
+Used RF & GBM for predicting load (electricity) in a Day Ahead Power Market.

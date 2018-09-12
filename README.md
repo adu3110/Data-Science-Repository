@@ -1,9 +1,9 @@
 # opensourcesaturday
 Open Source Saturday is a data science repository
 
-R:
+# R:
 
-Dual Time Dynamics (DTD):
+# Dual Time Dynamics (DTD):
 Applying Dual Time Dynamics to Credit Risk Models
 
 Dual time Dynamics attempts to model the loss behaviour of a portfolio of retail loans as a function of calendar time and portfolio maturation time, as well as portfolio risk profile and the impact of the macro-economy as an exogenous factor.
@@ -14,14 +14,14 @@ In credit risk stress testing models, we would like to model delinquency or defa
 I worked on adapting the framework for application to stress testing models across a range of retail products.
 
 
-Monte Carlo Tree Search (MC Tree Search):
+# Monte Carlo Tree Search (MC Tree Search):
 
 The tree search algorithm attempts to mimic the intuition of a portfolio manager in the selection of a 'best' stress testing model for a portfolio of retail loans.  The trajectory the portfolio default probability will follow in a hypothetical stress situation is the basis of selection and is evaluated by managers using several heuristics. The algorithm attempts to capture these heuristics, significantly increasing the efficiency of the modelling process.
 
-Dynamic Time Warping (DTW):
+# Dynamic Time Warping (DTW):
 
 An algorithm to match predicted model trajectory and yearly economic scenario trajectory
 
-Random Forest & Gradient Boosting Algorithm for Load Prediction: (RF_GBM_for_load_prediction)
+# Random Forest & Gradient Boosting Algorithm for Load Prediction: (RF_GBM_for_load_prediction)
 
 Used RF & GBM for predicting load (electricity) in a Day Ahead Power Market.
